@@ -4,5 +4,3 @@ Hit Up Arrow/Down Arrow to alter the size of the Tpen.
 Left click to raise/lower the Tpen.
 Hit S to save as a JPEG.
 Make sure to place the turtle window on full screen, it should automatically match your monitors aspect ratio.
-
--Yitzy Dan
